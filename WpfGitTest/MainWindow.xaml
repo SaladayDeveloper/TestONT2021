@@ -12,6 +12,11 @@
                 Margin="337,106,0,0"
                 VerticalAlignment="Top"
                 Width="75" />
+        <Button Content="Button"
+                HorizontalAlignment="Left"
+                Margin="189,106,0,0"
+                VerticalAlignment="Top"
+                Width="75" />
 
     </Grid>
 </Window>
